@@ -1,2 +1,2 @@
-# PROJECT-3
+# PROJECT 1-Clean and prepare clinical healthcare data for analysis
 This project focuses on analysing clinical healthcare data from 130 US hospitals to investigate patterns associated with diabetic patient readmissions within 30 days of discharge. The analysis was completed as part of the WWD182 (Working with Data) module and emphasises data preparation, visual analysis, interpretation, and ethical reporting in healthcare data science.
